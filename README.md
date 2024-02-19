@@ -1,6 +1,8 @@
 # Modelo_Fraude_de_Credito
 
 Solução Proposta
+
+
 Os notebooks deste projeto visam a construção de um modelo para Inadimpência. Para isto foram utilizados algoritmos de Árvore de Decisão, Florestas aleatórias e Redes Neurais afim de identificar qual teria a melhor resposta para este problema.
 
 Inclusive, há recomendação no site onde foi baixado o dataset para utilização de redes neurais para fazer o modelo. Foi escolhido para esta análise o arquivo do site https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients, o terceiro da lista do repositório encaminhado. O mesmo não continha dados faltantes. No arquivo requirements.txt tem as instalações que foram feitas no prompt para que o modelo pudesse ser construído e o dataset é o de no nome "defaultCreditcardClients.xls". Para este processo seletivo, os arquivos que devem ser abertos são os notebooks infracommerce.ipynb e infracommerce_RedeNeural.ipynb. O primeiro notebook tem as predições feitas com Arvore de Decisão e Florestas Aleatórias e o segundo notebook o modelo foi gerado usando Rede Neural.
