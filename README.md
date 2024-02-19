@@ -1,6 +1,6 @@
 # Modelo_Fraude_de_Credito
 
-Solução Proposta
+Solução Proposta:
 
 
 Os notebooks deste projeto visam a construção de um modelo para Inadimpência. Para isto foram utilizados algoritmos de Árvore de Decisão, Florestas aleatórias e Redes Neurais afim de identificar qual teria a melhor resposta para este problema.
